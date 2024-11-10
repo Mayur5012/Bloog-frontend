@@ -10,7 +10,7 @@ function Footer() {
             <div className="mb-6 md:mb-0">
                 <img
                   src={logo}
-                  style={{height:"6rem", width:"22rem"}} className=" me-3"
+                  style={{height:"5rem", width:"18rem"}} className=" me-3"
                   alt="FlowBite Logo"
                 />
             </div>
